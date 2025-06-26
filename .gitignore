@@ -1,0 +1,58 @@
+*.iml
+.gradle
+gradle.properties
+.idea
+.DS_Store
+*.project
+*.classpath
+*.settings
+local.properties
+/build
+/captures
+/app/*.apk
+/app/release/
+/app/src/debug/res/xml/
+/app/src/main/assets/bundles/
+mov-android-api/src/main/res/raw/*
+mpandroidchartlib/build/*
+tutorialslideshow/build/*
+.idea/modules.xml
+.idea/*
+build
+/build/
+/build/*
+build/*
+build/
+log-codereview/*
+/log-codereview/*
+?/
+react-native/
+libs/react-native-pager-view
+libs/react-native
+libs/rn-fetch-blob
+/*/*.zip
+*.hprof
+yarn.lock
+node_modules
+app/src/main/assets/*.tgz
+app/src/main/assets/bundles/*.tgz
+app/src/main/assets/bundles/*.movapp
+app/debug
+/app/producao/release/
+/app/local/release/
+/app/producao/
+/app/local
+.vscode/
+keystore.properties
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/#source-control
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+build_result
+ProtectionManifest.json
